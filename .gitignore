@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Données
+data/raw/
+data/processed/
+
+# Environnements virtuels
+venv/
+env/
+
+# Système
+.DS_Store
