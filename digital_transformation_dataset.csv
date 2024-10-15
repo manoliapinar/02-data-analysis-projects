@@ -1,0 +1,501 @@
+Industry,Company Size,Digital Tools Adopted,Year of Adoption,Impact on Revenue (%),Impact on Efficiency (%),Digital Skills Training,Customer Engagement Change (%),Geographic Region
+Manufacturing,Large,"['Digital Twins', 'CRM']",2017,19.02,7.82,Yes,33.05,North America
+Retail,Medium,['Digital Twins'],2021,22.82,14.83,Yes,6.21,Africa
+Manufacturing,Small,['IoT'],2016,29.41,23.05,No,17.33,South America
+Education,Medium,"['Blockchain', 'Digital Twins', 'ERP', 'Cloud Computing']",2015,20.47,13.06,Yes,25.55,Middle East
+Retail,Medium,['Digital Twins'],2018,16.37,13,No,14.69,Europe
+Manufacturing,Medium,['AI'],2021,18.54,11.8,No,24.21,South America
+Education,Small,"['Digital Twins', 'AI', 'IoT', 'Cloud Computing']",2019,17.01,5.6,Yes,28.06,Europe
+Technology,Small,"['CRM', 'Cloud Computing']",2015,8.9,21.6,No,21.58,Asia-Pacific
+Retail,Large,"['AI', 'Cloud Computing']",2016,12.3,6.67,Yes,18.9,Asia-Pacific
+Technology,Medium,"['Big Data Analytics', 'IoT', 'ERP', 'CRM']",2023,14.14,23.05,Yes,26.93,Europe
+Transportation,Medium,"['AI', 'Blockchain', 'Big Data Analytics']",2018,24.72,13.42,Yes,31.36,Europe
+Finance,Small,['IoT'],2023,6.83,9.4,No,27.37,Europe
+Energy,Medium,"['ERP', 'Blockchain', 'Cloud Computing', 'Big Data Analytics']",2018,19.12,11.15,Yes,19.02,Asia-Pacific
+Healthcare,Small,['AI'],2016,9.44,17.76,No,22.99,Asia-Pacific
+Finance,Small,['Digital Twins'],2023,17.97,20.99,No,24.05,Asia-Pacific
+Energy,Small,"['Blockchain', 'Big Data Analytics']",2015,23.62,6.1,No,12.42,Middle East
+Finance,Large,"['Blockchain', 'Big Data Analytics', 'Digital Twins']",2015,24.44,8.13,Yes,7.79,Middle East
+Finance,Large,['AI'],2018,19.19,19.49,Yes,15.52,Middle East
+Finance,Small,"['CRM', 'Digital Twins', 'Blockchain']",2019,5.75,9.04,No,19.22,Europe
+Energy,Medium,"['CRM', 'Big Data Analytics', 'AI', 'Cloud Computing']",2018,22.74,15.09,Yes,5.45,Africa
+Healthcare,Large,"['Blockchain', 'Digital Twins', 'ERP', 'Big Data Analytics']",2023,13.3,23.94,No,12.76,Middle East
+Transportation,Small,"['Digital Twins', 'AI']",2022,10.31,13.17,No,18.85,North America
+Technology,Small,"['CRM', 'Big Data Analytics', 'AI']",2022,18.99,8.68,No,27.48,Europe
+Technology,Large,"['Digital Twins', 'ERP', 'Big Data Analytics']",2015,17.26,7.44,Yes,15.1,Europe
+Education,Large,"['CRM', 'Digital Twins', 'AI', 'Cloud Computing']",2015,16.1,14.3,Yes,28.18,Asia-Pacific
+Finance,Small,['ERP'],2020,12.24,5.59,Yes,22.23,South America
+Education,Medium,"['Digital Twins', 'AI', 'ERP']",2015,29.19,15.37,No,30.91,Middle East
+Transportation,Medium,['Digital Twins'],2021,23.53,19.62,Yes,13.66,Asia-Pacific
+Healthcare,Medium,"['Cloud Computing', 'Blockchain']",2018,28.7,10.65,Yes,5.11,Africa
+Education,Small,"['Big Data Analytics', 'CRM']",2019,15.98,14.72,Yes,11.32,South America
+Finance,Small,"['IoT', 'Blockchain', 'ERP', 'Big Data Analytics']",2015,22.79,5.82,Yes,12.62,North America
+Transportation,Large,"['ERP', 'CRM', 'AI', 'Blockchain']",2017,6.47,13.08,No,32.71,Europe
+Finance,Small,"['Cloud Computing', 'CRM', 'IoT', 'AI']",2020,23.47,5.99,No,21.74,South America
+Healthcare,Small,"['ERP', 'Big Data Analytics']",2017,12.74,10.98,No,27.07,South America
+Healthcare,Small,"['Blockchain', 'Digital Twins', 'AI', 'IoT']",2018,26.38,8.7,No,13.57,Middle East
+Energy,Medium,['CRM'],2023,5.42,24.23,Yes,34.64,North America
+Transportation,Large,['Blockchain'],2019,11.58,9.78,No,11.89,Europe
+Retail,Medium,"['ERP', 'Cloud Computing', 'CRM']",2017,10,13.96,No,6.76,South America
+Transportation,Medium,"['Blockchain', 'Cloud Computing', 'Digital Twins']",2019,8.6,9.81,No,27.52,North America
+Healthcare,Medium,['CRM'],2015,19.28,12.36,Yes,19.58,North America
+Manufacturing,Large,['Digital Twins'],2022,18.03,7.06,No,19.26,North America
+Energy,Large,"['AI', 'Blockchain', 'IoT', 'ERP']",2017,21.89,20.27,Yes,33.96,Africa
+Finance,Medium,"['Big Data Analytics', 'Blockchain']",2015,24.62,18.65,Yes,25.63,Africa
+Education,Medium,"['Blockchain', 'Big Data Analytics', 'Digital Twins', 'IoT']",2023,20.95,5.5,No,28.4,Africa
+Finance,Small,"['Digital Twins', 'IoT', 'Cloud Computing', 'ERP']",2016,17.28,16.9,Yes,13.58,South America
+Education,Medium,['Digital Twins'],2019,9.1,6.67,Yes,20.57,Europe
+Education,Small,['IoT'],2017,14.5,8.83,Yes,29.42,North America
+Healthcare,Large,['Digital Twins'],2016,21.2,13.94,No,23.27,Asia-Pacific
+Technology,Medium,"['Digital Twins', 'Blockchain', 'CRM', 'Cloud Computing']",2022,8.06,20.71,Yes,14.26,Europe
+Finance,Small,"['Big Data Analytics', 'IoT', 'Blockchain', 'Digital Twins']",2021,16.28,6.76,Yes,22.69,Africa
+Education,Large,"['IoT', 'Digital Twins']",2022,28.74,8.68,No,5.26,North America
+Manufacturing,Small,"['CRM', 'AI', 'ERP', 'Big Data Analytics']",2017,29.81,14.73,No,28.46,South America
+Transportation,Large,"['AI', 'CRM', 'ERP', 'Cloud Computing']",2021,27.34,20.59,No,18.44,North America
+Finance,Large,"['ERP', 'IoT']",2015,11.08,10.66,No,6.06,North America
+Healthcare,Large,"['Cloud Computing', 'Blockchain', 'AI', 'ERP']",2020,11.65,7.52,Yes,24.96,Africa
+Manufacturing,Medium,"['Digital Twins', 'AI']",2016,11.43,12.02,No,17.67,Asia-Pacific
+Finance,Small,['Blockchain'],2020,24.22,14.35,No,34.76,Africa
+Healthcare,Large,"['Digital Twins', 'ERP', 'IoT', 'Cloud Computing']",2016,5.13,20,Yes,11.73,South America
+Finance,Small,['Big Data Analytics'],2021,15.47,15.38,No,7.82,Middle East
+Transportation,Large,"['IoT', 'Blockchain', 'CRM']",2017,13.5,12.97,Yes,33.82,Europe
+Energy,Large,"['Blockchain', 'ERP', 'CRM']",2023,12.91,12.5,Yes,7.39,Europe
+Energy,Small,['Cloud Computing'],2023,24.67,12.86,No,30.08,Asia-Pacific
+Energy,Small,"['Big Data Analytics', 'Cloud Computing', 'CRM']",2020,24.75,17.97,Yes,8.84,South America
+Healthcare,Medium,"['Big Data Analytics', 'Cloud Computing', 'AI']",2023,5.79,13.84,No,27.67,Europe
+Transportation,Large,"['Blockchain', 'AI', 'Digital Twins', 'IoT']",2020,5.43,17.57,Yes,21.53,Europe
+Finance,Small,"['CRM', 'IoT']",2015,5.88,17.89,No,10.45,Africa
+Healthcare,Medium,"['Blockchain', 'ERP']",2019,21.33,10.36,Yes,32.06,Middle East
+Healthcare,Large,"['AI', 'ERP', 'Blockchain']",2022,24.39,18.02,Yes,33.38,Middle East
+Manufacturing,Small,['IoT'],2023,24.18,20.2,No,6.89,South America
+Education,Small,"['IoT', 'AI', 'Blockchain']",2015,15.17,20.63,No,20.37,Middle East
+Finance,Medium,"['CRM', 'IoT', 'Digital Twins', 'Blockchain']",2017,27.96,9.94,No,7.1,Europe
+Education,Large,"['Blockchain', 'CRM']",2016,14.02,23.17,Yes,17.2,Middle East
+Energy,Small,['AI'],2018,14.41,20.94,Yes,15.05,Middle East
+Finance,Medium,"['ERP', 'Big Data Analytics', 'CRM', 'Digital Twins']",2022,6.12,12.8,No,30.49,Europe
+Transportation,Small,['Blockchain'],2020,8.44,21.96,No,20.02,Asia-Pacific
+Manufacturing,Small,"['CRM', 'ERP', 'AI', 'Cloud Computing']",2021,15.6,9.82,Yes,6.13,Asia-Pacific
+Technology,Medium,['Big Data Analytics'],2015,12.42,19.63,No,6.95,North America
+Education,Medium,"['Blockchain', 'IoT', 'Cloud Computing', 'ERP']",2015,14.35,6.34,Yes,8.09,Middle East
+Energy,Small,"['CRM', 'Big Data Analytics']",2019,9.71,13.5,Yes,14.65,Africa
+Finance,Small,"['Big Data Analytics', 'AI', 'CRM']",2022,11.36,13.62,Yes,13.77,Africa
+Manufacturing,Medium,['ERP'],2019,6.39,12.82,Yes,33.03,Africa
+Manufacturing,Large,"['AI', 'Big Data Analytics', 'Blockchain', 'CRM']",2018,22.17,12.01,Yes,26.05,North America
+Manufacturing,Medium,"['Big Data Analytics', 'Cloud Computing', 'IoT', 'CRM']",2020,16.87,12.4,Yes,5.37,South America
+Education,Large,['ERP'],2023,17.33,12.12,No,24.18,Asia-Pacific
+Education,Medium,['CRM'],2019,26.58,24.94,Yes,29.12,South America
+Energy,Large,['CRM'],2019,24.15,6.27,Yes,30.87,Africa
+Healthcare,Large,['AI'],2015,17.19,21.11,Yes,19.68,North America
+Manufacturing,Medium,"['Big Data Analytics', 'AI', 'CRM']",2018,11.32,10.75,No,19.18,Asia-Pacific
+Transportation,Small,"['ERP', 'Blockchain', 'CRM', 'AI']",2019,15.62,8.82,No,24.76,Africa
+Finance,Small,"['Cloud Computing', 'Digital Twins', 'Blockchain']",2016,26.51,23.5,Yes,16.94,Africa
+Transportation,Medium,"['Cloud Computing', 'Digital Twins', 'AI', 'Big Data Analytics']",2018,29.35,24.36,Yes,33.04,Asia-Pacific
+Retail,Small,"['ERP', 'Digital Twins']",2018,8.17,7.91,No,26.47,Africa
+Technology,Medium,"['CRM', 'Cloud Computing']",2015,7.26,22.05,Yes,18.38,Middle East
+Finance,Large,['AI'],2023,9.05,24.62,Yes,30.18,Middle East
+Retail,Large,"['ERP', 'AI']",2023,29.69,6.05,No,22.68,Europe
+Finance,Medium,"['AI', 'CRM', 'Cloud Computing', 'Big Data Analytics']",2021,5.21,11.6,No,5.69,Asia-Pacific
+Healthcare,Small,['ERP'],2015,10.83,6.31,No,5.61,Africa
+Transportation,Large,"['CRM', 'Blockchain', 'AI', 'IoT']",2019,17,17.71,No,30.46,Middle East
+Education,Medium,['Big Data Analytics'],2018,10.45,8.33,No,28.57,Europe
+Education,Medium,"['Cloud Computing', 'ERP', 'CRM', 'AI']",2023,28.46,24.95,Yes,35,Africa
+Healthcare,Medium,"['Blockchain', 'Digital Twins', 'ERP']",2021,22.79,9.04,Yes,16.63,Europe
+Energy,Small,"['ERP', 'CRM', 'Blockchain', 'AI']",2015,11.98,10.1,Yes,29.19,Middle East
+Healthcare,Small,"['Cloud Computing', 'IoT', 'Digital Twins', 'Blockchain']",2018,13.65,24.16,No,6.04,Asia-Pacific
+Technology,Small,"['CRM', 'Cloud Computing']",2018,5.11,9.76,Yes,21.25,Middle East
+Transportation,Medium,['Big Data Analytics'],2021,18.27,15.15,No,19.53,South America
+Education,Medium,"['Blockchain', 'IoT']",2022,16.97,5.82,Yes,19.25,Middle East
+Manufacturing,Small,"['ERP', 'CRM', 'Big Data Analytics', 'Cloud Computing']",2023,23.14,12.42,No,29,Asia-Pacific
+Technology,Medium,['Digital Twins'],2023,8.8,18.92,No,14.55,Europe
+Education,Large,"['AI', 'CRM', 'Cloud Computing']",2023,8.71,23.76,No,15.7,South America
+Manufacturing,Small,['Blockchain'],2016,7.38,12.58,No,13.51,South America
+Education,Small,['Cloud Computing'],2015,19.85,18.76,No,8.75,North America
+Technology,Large,"['ERP', 'Cloud Computing', 'Big Data Analytics', 'Digital Twins']",2017,16.14,13.34,Yes,21.72,South America
+Manufacturing,Large,"['CRM', 'Blockchain']",2019,26.24,10.16,Yes,8.15,Middle East
+Finance,Large,['Big Data Analytics'],2016,18.57,13.59,No,16.85,Middle East
+Technology,Medium,['ERP'],2023,21.15,21.27,No,7.54,Asia-Pacific
+Transportation,Large,"['Cloud Computing', 'CRM', 'AI', 'IoT']",2021,22.76,6.06,No,25.65,Asia-Pacific
+Retail,Small,"['IoT', 'AI']",2017,15.44,13.03,No,14.22,Europe
+Manufacturing,Medium,"['ERP', 'Blockchain']",2021,27.77,11.51,Yes,12.2,Europe
+Retail,Small,['Cloud Computing'],2018,19.81,18.81,Yes,10.99,Asia-Pacific
+Technology,Large,['IoT'],2020,7.33,9.04,Yes,26.8,Africa
+Energy,Large,"['CRM', 'AI']",2023,11.04,24.07,Yes,18.54,Asia-Pacific
+Transportation,Medium,"['Digital Twins', 'ERP']",2017,14.86,19.08,No,31.28,North America
+Education,Large,"['Digital Twins', 'CRM']",2018,11.85,7.11,Yes,18,Europe
+Manufacturing,Small,"['ERP', 'Digital Twins']",2023,9.34,24.53,No,32.95,Middle East
+Healthcare,Large,['CRM'],2020,26.91,17.85,No,25.52,Africa
+Education,Medium,"['CRM', 'AI', 'ERP', 'Digital Twins']",2017,8.62,8.3,Yes,8.19,Middle East
+Transportation,Small,"['Cloud Computing', 'AI', 'CRM']",2016,26.77,18.75,No,30.2,South America
+Education,Large,"['IoT', 'ERP', 'Blockchain']",2022,21.07,15.06,Yes,31.82,South America
+Healthcare,Large,"['Digital Twins', 'Blockchain', 'CRM']",2022,26.02,12,No,33.02,South America
+Finance,Large,['AI'],2023,21.22,19.93,Yes,32.26,North America
+Energy,Medium,"['Cloud Computing', 'ERP', 'IoT', 'Digital Twins']",2017,25.8,23.82,Yes,29.33,North America
+Manufacturing,Large,"['IoT', 'CRM', 'Blockchain', 'Big Data Analytics']",2023,19.34,8.18,Yes,6.86,Africa
+Energy,Small,"['Big Data Analytics', 'ERP', 'Blockchain']",2022,13.51,6.38,No,11.58,Middle East
+Healthcare,Small,"['ERP', 'Big Data Analytics', 'Digital Twins', 'CRM']",2023,17.22,5.09,No,5.8,Africa
+Finance,Small,"['Big Data Analytics', 'Cloud Computing', 'CRM']",2020,18.79,17.86,No,12.08,Middle East
+Technology,Large,['Cloud Computing'],2019,23.06,22.95,No,19.1,South America
+Technology,Large,"['Blockchain', 'AI']",2023,12.29,23.93,No,7.76,North America
+Energy,Large,"['AI', 'Blockchain', 'IoT', 'ERP']",2015,27.54,9.28,No,22.39,South America
+Finance,Small,"['AI', 'Big Data Analytics', 'IoT']",2017,16.78,20.64,Yes,27.81,Middle East
+Manufacturing,Small,"['Blockchain', 'CRM', 'IoT']",2017,17.12,15.74,No,6.52,North America
+Retail,Medium,"['IoT', 'Cloud Computing', 'CRM']",2017,22.99,10.93,Yes,16.82,South America
+Transportation,Large,['Blockchain'],2021,24.03,17.91,No,6.65,North America
+Healthcare,Small,"['Cloud Computing', 'Digital Twins']",2022,27.99,18,Yes,33.4,South America
+Manufacturing,Large,"['Big Data Analytics', 'Digital Twins', 'CRM', 'AI']",2020,24.59,17.1,Yes,10.6,Africa
+Retail,Large,"['CRM', 'Digital Twins']",2018,20.93,20.15,Yes,10.23,North America
+Technology,Medium,"['Big Data Analytics', 'Blockchain', 'Digital Twins']",2017,23.64,24.93,No,13.94,Europe
+Manufacturing,Medium,['AI'],2022,28.03,9.04,Yes,27.4,Middle East
+Finance,Small,"['Big Data Analytics', 'Digital Twins', 'ERP', 'Blockchain']",2021,21.68,15.62,Yes,5.26,South America
+Education,Medium,"['Blockchain', 'IoT', 'Big Data Analytics', 'AI']",2016,5.38,22.99,No,12.11,Europe
+Education,Small,"['Big Data Analytics', 'CRM', 'AI', 'IoT']",2018,10.64,14.39,Yes,31.05,Asia-Pacific
+Manufacturing,Large,"['Blockchain', 'IoT', 'CRM']",2020,5.98,11.05,Yes,29.6,Africa
+Manufacturing,Medium,"['IoT', 'ERP']",2018,29.62,9.39,No,8.02,Asia-Pacific
+Healthcare,Small,"['Cloud Computing', 'Blockchain', 'AI']",2020,24.1,20.57,Yes,12.76,Middle East
+Healthcare,Large,"['Cloud Computing', 'AI']",2017,20.42,16.42,No,32.09,Africa
+Transportation,Small,"['Big Data Analytics', 'AI', 'Cloud Computing']",2015,15.23,18.37,Yes,27.05,Africa
+Education,Large,['ERP'],2019,12.47,19.79,Yes,27.6,South America
+Education,Medium,['IoT'],2023,27.24,7.72,Yes,8.36,North America
+Healthcare,Large,"['Big Data Analytics', 'AI']",2015,13.42,15.82,Yes,11.04,Africa
+Transportation,Medium,"['Blockchain', 'ERP', 'Big Data Analytics', 'AI']",2021,26.85,23.11,Yes,24,North America
+Education,Small,['Cloud Computing'],2017,12.37,14.07,Yes,9.59,South America
+Retail,Large,"['Cloud Computing', 'ERP', 'IoT']",2023,5.58,10.67,Yes,25.02,South America
+Energy,Large,"['Cloud Computing', 'Digital Twins', 'Blockchain', 'CRM']",2017,25.64,14.48,No,8.56,Europe
+Healthcare,Large,['AI'],2022,21.92,24.71,Yes,7.41,Europe
+Transportation,Large,['ERP'],2017,23.44,20,No,31.11,Middle East
+Finance,Large,['Big Data Analytics'],2015,12.7,20.56,Yes,27.9,Asia-Pacific
+Education,Small,"['CRM', 'Blockchain']",2023,20.64,15.91,Yes,33.08,Middle East
+Healthcare,Medium,['Cloud Computing'],2018,25.95,18.33,Yes,32.09,Europe
+Healthcare,Small,['AI'],2015,13.63,18.64,No,31.6,South America
+Retail,Medium,"['ERP', 'AI', 'Blockchain']",2020,14.47,16.81,Yes,34.21,Africa
+Transportation,Large,"['ERP', 'IoT', 'Big Data Analytics']",2023,24.81,15.77,No,20.28,South America
+Energy,Large,"['AI', 'Big Data Analytics', 'Digital Twins']",2021,21.44,20.2,Yes,22.25,Asia-Pacific
+Retail,Medium,"['Blockchain', 'CRM', 'IoT']",2019,23.94,10.52,No,21.82,Middle East
+Transportation,Medium,"['ERP', 'Blockchain', 'CRM', 'Big Data Analytics']",2017,26.79,13.99,Yes,28.75,Europe
+Healthcare,Small,"['Cloud Computing', 'AI']",2019,17.19,19.53,No,11.24,Europe
+Finance,Medium,"['Big Data Analytics', 'ERP']",2017,5.12,15.18,No,18.75,North America
+Technology,Large,['Digital Twins'],2018,16.43,10.07,No,9.06,Africa
+Transportation,Large,"['ERP', 'Cloud Computing']",2018,15.54,20.52,No,6.75,North America
+Transportation,Medium,"['Big Data Analytics', 'Digital Twins', 'Cloud Computing']",2018,5.22,15.86,No,13.39,South America
+Healthcare,Medium,['IoT'],2021,21.14,12.55,Yes,16.85,Africa
+Retail,Medium,['Digital Twins'],2021,20.11,22.16,No,26.91,Asia-Pacific
+Energy,Medium,"['ERP', 'AI', 'Digital Twins']",2015,19.68,5.1,Yes,15.39,South America
+Retail,Large,['ERP'],2017,11.54,21.98,No,20.46,Middle East
+Healthcare,Medium,"['Cloud Computing', 'Blockchain', 'CRM', 'ERP']",2018,28.34,14.98,Yes,31.05,South America
+Finance,Large,"['AI', 'Digital Twins', 'Blockchain']",2017,17.49,16.84,Yes,35,Europe
+Technology,Medium,"['Blockchain', 'AI', 'IoT', 'CRM']",2015,8.56,16.32,Yes,11.4,Africa
+Technology,Small,"['CRM', 'Cloud Computing']",2020,13.03,6.67,Yes,13,Asia-Pacific
+Transportation,Small,['Cloud Computing'],2018,9.17,9.72,No,18.81,North America
+Healthcare,Large,"['Blockchain', 'CRM']",2020,15.87,22.22,No,34.3,Asia-Pacific
+Technology,Large,"['AI', 'IoT', 'Blockchain']",2022,21.83,18.1,No,23.23,Asia-Pacific
+Transportation,Large,"['Blockchain', 'Big Data Analytics', 'Digital Twins']",2015,21.81,15.46,Yes,6.14,Middle East
+Finance,Large,"['Big Data Analytics', 'Blockchain', 'Cloud Computing', 'IoT']",2022,27.13,9.5,No,30.62,North America
+Energy,Small,['Big Data Analytics'],2017,10.02,17.07,No,34.14,Africa
+Energy,Medium,"['AI', 'Cloud Computing']",2017,16.11,14.78,Yes,9.07,Africa
+Transportation,Medium,"['Digital Twins', 'Cloud Computing', 'CRM', 'Blockchain']",2017,17.87,5.96,Yes,13.97,Africa
+Finance,Large,"['Cloud Computing', 'Big Data Analytics']",2022,25.71,5.82,No,7.35,Africa
+Finance,Medium,"['ERP', 'AI', 'Blockchain', 'IoT']",2022,9.11,14.89,No,10.08,Africa
+Manufacturing,Medium,['ERP'],2022,23.07,7.65,Yes,13.73,Middle East
+Healthcare,Large,"['Digital Twins', 'IoT']",2022,9.2,7.61,No,25.67,South America
+Finance,Large,"['Digital Twins', 'CRM']",2017,13.91,15.14,No,5.96,Europe
+Retail,Medium,"['CRM', 'Cloud Computing', 'Digital Twins', 'Blockchain']",2016,21.53,12.66,No,19.04,Middle East
+Retail,Large,['ERP'],2023,27.96,23.97,No,34.23,North America
+Energy,Large,"['AI', 'Digital Twins', 'Blockchain', 'ERP']",2023,17.2,8.7,No,27.68,Africa
+Healthcare,Large,"['Blockchain', 'AI', 'IoT']",2017,9.5,12.77,No,27.78,Europe
+Retail,Large,['ERP'],2022,13.62,23.41,Yes,9.72,North America
+Education,Medium,"['Digital Twins', 'Big Data Analytics', 'ERP', 'Cloud Computing']",2018,23.36,9.03,No,20.21,Middle East
+Manufacturing,Small,"['IoT', 'Cloud Computing']",2022,7.33,14.15,No,20.38,Africa
+Technology,Small,"['CRM', 'Cloud Computing']",2019,28.2,9.18,Yes,11.32,Europe
+Transportation,Large,"['Cloud Computing', 'IoT', 'ERP', 'Blockchain']",2022,21.67,24.15,No,22.26,Africa
+Education,Small,"['CRM', 'AI']",2017,6.04,20.38,Yes,16.41,South America
+Healthcare,Small,"['ERP', 'IoT', 'CRM', 'AI']",2020,22.53,24.01,Yes,22.2,Asia-Pacific
+Manufacturing,Small,"['Cloud Computing', 'CRM', 'Digital Twins', 'AI']",2019,12.59,10.17,Yes,11.23,North America
+Manufacturing,Medium,['IoT'],2020,5.23,22.94,No,28.93,North America
+Healthcare,Medium,['ERP'],2020,14.88,21.1,No,29.2,Europe
+Finance,Medium,['AI'],2018,23.94,11.88,No,23.24,Europe
+Healthcare,Small,"['AI', 'CRM', 'IoT']",2023,29.1,19.83,Yes,8.06,Africa
+Finance,Small,"['ERP', 'Cloud Computing']",2019,26.94,14,No,26.05,North America
+Energy,Small,['CRM'],2022,25.78,23.78,Yes,6.95,Europe
+Manufacturing,Small,"['Big Data Analytics', 'Digital Twins', 'Blockchain', 'AI']",2021,15.87,18.51,No,26.1,Africa
+Energy,Small,['ERP'],2015,27.18,11.5,No,18.44,Europe
+Transportation,Small,"['Cloud Computing', 'Big Data Analytics', 'Blockchain']",2015,22.63,20.48,No,11.11,Europe
+Manufacturing,Large,['Big Data Analytics'],2015,15.59,21.72,No,7.47,Europe
+Education,Medium,"['Blockchain', 'AI', 'Big Data Analytics', 'Digital Twins']",2015,26.14,14.13,Yes,30.03,Europe
+Education,Small,"['Digital Twins', 'IoT', 'Cloud Computing', 'ERP']",2021,25.85,6.3,No,18.34,Asia-Pacific
+Education,Small,"['Big Data Analytics', 'CRM', 'Cloud Computing']",2016,12.83,22.49,No,34.25,South America
+Energy,Small,['AI'],2015,18.37,9.5,No,31.63,Africa
+Finance,Small,"['AI', 'Blockchain', 'IoT']",2018,18.24,17.01,Yes,28.92,Asia-Pacific
+Education,Medium,"['Digital Twins', 'Blockchain']",2016,13.6,13.85,No,31.67,Europe
+Finance,Small,"['AI', 'CRM', 'Big Data Analytics']",2015,13.74,7.52,No,33.93,Asia-Pacific
+Finance,Small,['IoT'],2022,12.83,8.98,Yes,21.1,Europe
+Energy,Medium,"['CRM', 'Cloud Computing', 'Big Data Analytics', 'Digital Twins']",2022,9.91,16.29,No,11.36,North America
+Retail,Medium,"['Big Data Analytics', 'CRM']",2017,18.54,16.49,No,22.35,Middle East
+Finance,Small,"['IoT', 'AI', 'Cloud Computing']",2023,16.94,17.57,No,34.19,Europe
+Transportation,Large,"['CRM', 'Blockchain', 'IoT']",2022,28.64,15.29,Yes,15.92,South America
+Finance,Medium,"['IoT', 'Cloud Computing', 'Big Data Analytics', 'Digital Twins']",2023,7.29,16.37,No,18.54,Africa
+Education,Small,"['Cloud Computing', 'Big Data Analytics']",2015,13.4,21.76,Yes,29.34,Europe
+Technology,Small,['CRM'],2021,29.4,8.12,No,9.96,Middle East
+Retail,Large,"['Digital Twins', 'Big Data Analytics', 'Blockchain']",2022,12.78,15.35,No,13.93,Middle East
+Education,Small,"['AI', 'Big Data Analytics']",2022,5.57,11.47,No,13.32,Middle East
+Education,Large,"['Cloud Computing', 'ERP', 'IoT']",2020,28.83,23.63,Yes,32.95,Middle East
+Retail,Small,"['Cloud Computing', 'IoT', 'Big Data Analytics', 'AI']",2023,20.77,21.34,Yes,26.54,South America
+Transportation,Small,"['AI', 'Digital Twins']",2019,5.34,16.3,No,19.44,North America
+Energy,Large,['AI'],2018,21.71,13.53,Yes,34.2,Africa
+Technology,Small,['ERP'],2015,14.86,11.18,No,14.48,Asia-Pacific
+Healthcare,Medium,"['CRM', 'IoT', 'Digital Twins']",2018,19.58,6.19,Yes,18.65,North America
+Manufacturing,Small,"['IoT', 'AI']",2017,27.1,6.65,Yes,21.14,Europe
+Healthcare,Large,"['ERP', 'Big Data Analytics', 'Blockchain']",2018,20.72,8.22,Yes,13.06,North America
+Technology,Small,"['CRM', 'Blockchain', 'AI', 'ERP']",2020,25.59,12.28,Yes,22.95,Asia-Pacific
+Technology,Small,['Big Data Analytics'],2018,9.07,18.76,No,24.52,Africa
+Retail,Small,"['CRM', 'Blockchain', 'Cloud Computing', 'AI']",2017,26.39,16.1,No,5.34,Europe
+Finance,Large,['CRM'],2020,27.65,5.92,Yes,31.6,Africa
+Technology,Large,['Cloud Computing'],2018,5.57,15.73,No,9.89,Africa
+Finance,Medium,"['Cloud Computing', 'CRM', 'Big Data Analytics', 'Digital Twins']",2023,24.52,9.24,Yes,32.48,South America
+Transportation,Small,"['Blockchain', 'ERP']",2019,15.79,8.63,No,28.5,Africa
+Transportation,Small,"['AI', 'Digital Twins', 'CRM', 'Big Data Analytics']",2016,5.2,24.13,No,32.7,Africa
+Manufacturing,Small,"['CRM', 'Big Data Analytics', 'Blockchain', 'AI']",2015,18.82,17.57,Yes,25.54,Asia-Pacific
+Education,Medium,['IoT'],2023,5.98,14.24,Yes,15.97,South America
+Transportation,Small,"['Big Data Analytics', 'CRM']",2017,12.22,17.14,Yes,23.95,North America
+Retail,Large,"['Big Data Analytics', 'ERP']",2020,9.71,12.33,No,19.24,North America
+Energy,Medium,"['Cloud Computing', 'IoT', 'ERP', 'Digital Twins']",2017,19.23,7.84,Yes,22.75,South America
+Finance,Small,"['Blockchain', 'AI']",2017,18.92,21.94,No,33.47,South America
+Energy,Small,"['IoT', 'Big Data Analytics']",2019,10.77,5.43,No,30.4,Asia-Pacific
+Education,Medium,['Blockchain'],2021,13.45,16.55,No,34.38,Africa
+Education,Small,['Blockchain'],2016,11.2,11.67,Yes,8.35,Asia-Pacific
+Education,Small,"['IoT', 'CRM', 'Blockchain', 'AI']",2020,11.64,11.24,No,14.02,South America
+Manufacturing,Large,"['Digital Twins', 'Big Data Analytics', 'CRM']",2019,5.82,8.77,Yes,8.6,Europe
+Healthcare,Small,"['IoT', 'AI', 'ERP']",2016,15.07,16.24,No,5.65,Africa
+Finance,Large,"['ERP', 'IoT']",2020,5.75,6.91,No,20.67,Asia-Pacific
+Education,Large,['Blockchain'],2022,6.41,6.71,Yes,26.82,Asia-Pacific
+Education,Medium,"['IoT', 'ERP', 'Big Data Analytics']",2018,18.37,22.76,No,23.49,North America
+Manufacturing,Large,['Blockchain'],2015,19.47,17.95,Yes,16.82,Africa
+Energy,Large,"['Digital Twins', 'AI']",2017,14.8,19.85,Yes,7.17,North America
+Education,Medium,['CRM'],2017,26.57,6.25,No,16.59,Africa
+Energy,Large,"['AI', 'Digital Twins', 'IoT', 'Blockchain']",2016,20.02,10.93,Yes,26.31,Asia-Pacific
+Technology,Large,"['Blockchain', 'CRM', 'ERP', 'Big Data Analytics']",2015,16.19,12,No,29.62,Africa
+Technology,Small,"['Digital Twins', 'Cloud Computing', 'Big Data Analytics', 'AI']",2015,21.58,24.79,Yes,14.87,Asia-Pacific
+Energy,Large,"['Big Data Analytics', 'IoT']",2022,5.78,13.05,No,12.56,Asia-Pacific
+Education,Medium,"['ERP', 'Digital Twins', 'AI', 'IoT']",2021,12.06,19.14,No,8.62,Middle East
+Healthcare,Medium,"['AI', 'ERP', 'Big Data Analytics', 'IoT']",2018,22.63,20.68,Yes,31.1,South America
+Energy,Large,"['Digital Twins', 'Blockchain', 'CRM']",2021,16.07,8.93,Yes,21.7,North America
+Education,Medium,"['AI', 'CRM', 'ERP', 'Cloud Computing']",2016,25.58,8.41,Yes,22.55,North America
+Manufacturing,Large,['IoT'],2018,27.59,6.41,No,29.69,North America
+Transportation,Medium,"['Blockchain', 'CRM', 'Big Data Analytics', 'ERP']",2020,12.56,14.29,Yes,23.54,Europe
+Education,Medium,"['CRM', 'ERP']",2016,10.27,12.75,No,19.44,Africa
+Manufacturing,Medium,"['Digital Twins', 'ERP']",2016,24.12,9.23,Yes,13.73,North America
+Energy,Medium,"['CRM', 'IoT', 'ERP', 'Digital Twins']",2020,23.5,11.53,Yes,21.39,Asia-Pacific
+Manufacturing,Medium,"['ERP', 'CRM', 'Digital Twins']",2016,28.84,23.68,Yes,30.55,Europe
+Transportation,Medium,"['Digital Twins', 'CRM']",2023,10.85,9.13,Yes,21.71,Asia-Pacific
+Retail,Small,"['Blockchain', 'ERP', 'AI', 'IoT']",2015,25.21,12.66,No,31.49,Asia-Pacific
+Healthcare,Large,"['Digital Twins', 'CRM', 'Blockchain', 'ERP']",2016,7.3,14.96,No,28.69,Europe
+Manufacturing,Medium,"['ERP', 'Blockchain', 'CRM']",2017,17.02,5.22,No,17.61,Asia-Pacific
+Healthcare,Small,['ERP'],2015,26.87,24.35,No,15.51,Europe
+Manufacturing,Medium,"['Blockchain', 'CRM', 'Digital Twins', 'Cloud Computing']",2019,12.95,8.39,No,27.65,Middle East
+Energy,Small,"['IoT', 'Blockchain', 'Big Data Analytics', 'Digital Twins']",2019,24.31,7.67,Yes,24.51,North America
+Education,Large,"['Cloud Computing', 'Digital Twins', 'ERP', 'AI']",2018,23.01,23.8,Yes,33.21,Europe
+Retail,Large,"['Blockchain', 'Big Data Analytics', 'IoT', 'Digital Twins']",2015,13.5,5.12,No,33.55,South America
+Retail,Medium,"['CRM', 'Cloud Computing', 'IoT', 'AI']",2023,28.66,21.8,Yes,10.62,Europe
+Healthcare,Large,"['AI', 'Cloud Computing', 'Big Data Analytics']",2016,19.43,13.47,No,33.74,Africa
+Manufacturing,Small,"['IoT', 'ERP']",2022,24.72,17.12,Yes,5.77,South America
+Finance,Large,"['ERP', 'Blockchain']",2022,24.74,22.06,Yes,10.2,Middle East
+Transportation,Small,"['IoT', 'Cloud Computing', 'Blockchain', 'Big Data Analytics']",2015,15.06,19.22,Yes,30.71,Middle East
+Healthcare,Medium,"['IoT', 'ERP', 'CRM']",2020,27.35,7.91,Yes,9.88,North America
+Retail,Large,"['Digital Twins', 'ERP', 'IoT']",2015,19.98,8.96,No,10.02,Middle East
+Manufacturing,Medium,['AI'],2020,5.34,11.39,No,23.36,North America
+Transportation,Medium,"['IoT', 'ERP', 'Cloud Computing', 'Blockchain']",2015,27.02,23.82,Yes,13.28,Asia-Pacific
+Transportation,Medium,"['ERP', 'CRM', 'AI']",2023,21.34,13.08,No,29.34,North America
+Retail,Large,['Big Data Analytics'],2017,13.67,20.6,Yes,17.51,North America
+Retail,Large,"['Cloud Computing', 'ERP', 'AI']",2022,29.72,15.12,No,5.64,Africa
+Healthcare,Small,['Blockchain'],2020,24.78,22.59,No,21.38,Asia-Pacific
+Manufacturing,Large,"['Digital Twins', 'ERP', 'Big Data Analytics']",2018,6.61,20.34,Yes,6.32,Asia-Pacific
+Manufacturing,Large,"['ERP', 'AI', 'Digital Twins', 'Blockchain']",2019,24.04,19.45,Yes,25.14,Middle East
+Healthcare,Medium,['CRM'],2022,27.84,23.65,Yes,11.83,Asia-Pacific
+Education,Small,['Blockchain'],2021,27.1,17.02,Yes,18.22,North America
+Education,Medium,['CRM'],2016,23.84,7.97,No,15.92,Middle East
+Finance,Small,"['Cloud Computing', 'IoT', 'ERP', 'CRM']",2018,27.99,5.05,Yes,34.68,South America
+Healthcare,Large,"['Blockchain', 'Digital Twins']",2016,19.59,20.36,Yes,28.05,South America
+Transportation,Large,['Digital Twins'],2015,18.1,6.83,Yes,25.18,South America
+Education,Small,['Cloud Computing'],2019,27.27,24.78,No,15.21,Asia-Pacific
+Manufacturing,Small,"['ERP', 'AI']",2020,10.14,19.42,Yes,19.95,South America
+Technology,Large,"['Big Data Analytics', 'Cloud Computing', 'IoT']",2015,10.73,8.69,Yes,16.12,Europe
+Finance,Medium,"['Big Data Analytics', 'CRM', 'Digital Twins']",2021,12.71,20.2,Yes,29.53,Africa
+Retail,Medium,"['IoT', 'CRM']",2020,8.53,19.28,Yes,24.67,North America
+Retail,Medium,"['ERP', 'Cloud Computing']",2015,5.24,13.32,Yes,7.03,Asia-Pacific
+Retail,Large,"['Digital Twins', 'CRM']",2017,9.79,20.17,No,33.09,Middle East
+Healthcare,Small,['Digital Twins'],2018,7.49,13.8,No,31.06,Africa
+Healthcare,Large,"['Digital Twins', 'Big Data Analytics', 'Blockchain', 'ERP']",2020,9.28,8.48,Yes,7.16,North America
+Education,Medium,['Cloud Computing'],2016,16.2,6.73,No,19.42,Asia-Pacific
+Transportation,Small,"['Blockchain', 'AI', 'Digital Twins', 'ERP']",2017,20.34,14.11,Yes,24.42,Middle East
+Finance,Medium,"['Big Data Analytics', 'CRM']",2016,16.41,19.99,No,9.73,Asia-Pacific
+Technology,Small,"['ERP', 'Digital Twins', 'Cloud Computing']",2019,18.34,14.29,No,10.72,South America
+Healthcare,Large,"['Cloud Computing', 'AI', 'CRM', 'Big Data Analytics']",2015,14.63,18.44,No,17.09,Asia-Pacific
+Healthcare,Medium,"['CRM', 'AI', 'ERP', 'Blockchain']",2023,26.52,15.92,Yes,8.75,Asia-Pacific
+Retail,Medium,"['IoT', 'Digital Twins']",2020,23.97,10.42,Yes,12.44,Asia-Pacific
+Manufacturing,Large,"['CRM', 'Blockchain', 'Digital Twins']",2021,12.49,8.51,No,7.31,South America
+Education,Medium,"['CRM', 'Blockchain']",2022,19.62,8.68,No,13.48,Africa
+Energy,Medium,"['IoT', 'Blockchain']",2022,23.87,14.22,Yes,6.98,North America
+Education,Small,"['Cloud Computing', 'CRM', 'AI']",2020,22.54,12.74,No,19.64,Africa
+Finance,Small,"['IoT', 'ERP']",2020,28.27,10.68,Yes,15.38,Europe
+Transportation,Small,"['AI', 'Digital Twins', 'Cloud Computing', 'CRM']",2020,24.97,11.64,No,28.13,Africa
+Energy,Medium,['IoT'],2019,19.23,6.88,No,22.31,Asia-Pacific
+Energy,Medium,"['Big Data Analytics', 'AI']",2018,10.38,16.02,Yes,30.91,North America
+Retail,Small,"['Big Data Analytics', 'ERP', 'CRM']",2021,27.45,19.06,Yes,10.57,Middle East
+Energy,Large,['Blockchain'],2017,27.04,14.35,Yes,21.45,Africa
+Education,Medium,"['Cloud Computing', 'AI', 'CRM', 'Blockchain']",2022,9.82,21.17,No,5.07,Middle East
+Transportation,Large,"['Cloud Computing', 'CRM', 'Blockchain', 'IoT']",2021,8.72,14.24,No,34.07,North America
+Finance,Small,['IoT'],2019,15.66,6.16,Yes,26.12,Africa
+Energy,Small,['ERP'],2018,20.05,9.07,No,5.74,North America
+Education,Medium,"['Cloud Computing', 'Blockchain', 'Digital Twins']",2022,9.45,13.19,No,10.61,North America
+Retail,Large,"['Blockchain', 'Digital Twins']",2018,21.91,16.15,No,21.66,Africa
+Healthcare,Small,['Big Data Analytics'],2021,8.53,7.7,Yes,30.69,Europe
+Energy,Small,"['Digital Twins', 'ERP']",2015,27.46,11.66,Yes,7.65,Europe
+Retail,Large,['Big Data Analytics'],2022,10.78,20.73,Yes,15.45,Asia-Pacific
+Healthcare,Medium,"['Big Data Analytics', 'ERP']",2021,14.49,5.03,No,32.18,South America
+Technology,Medium,"['ERP', 'Digital Twins']",2022,8.67,10.07,Yes,10.19,Europe
+Finance,Large,"['Blockchain', 'AI', 'ERP']",2017,28.07,22.88,Yes,21.52,Europe
+Technology,Medium,"['CRM', 'AI', 'Digital Twins']",2021,13.57,22.69,No,20.06,Europe
+Energy,Small,['ERP'],2018,29.89,20.01,Yes,14.5,Africa
+Technology,Large,['Digital Twins'],2018,11.76,23.56,Yes,15.11,Asia-Pacific
+Retail,Small,"['AI', 'Blockchain', 'CRM', 'ERP']",2018,18.97,18.63,Yes,29.13,Europe
+Manufacturing,Large,['Big Data Analytics'],2022,7.67,16.23,No,28.98,Middle East
+Finance,Large,['Digital Twins'],2018,27.5,13.27,Yes,29.1,North America
+Technology,Medium,"['Digital Twins', 'ERP', 'Cloud Computing', 'AI']",2022,9.15,6.7,No,8.1,South America
+Finance,Small,"['Blockchain', 'Digital Twins', 'AI']",2015,22.15,24.74,No,9.62,South America
+Healthcare,Small,['Digital Twins'],2018,5.32,20.62,Yes,9.99,Middle East
+Technology,Medium,"['AI', 'CRM']",2019,6.98,8.81,Yes,6.15,Africa
+Technology,Medium,"['CRM', 'Cloud Computing']",2018,22.63,6.27,Yes,28.4,North America
+Healthcare,Large,['Big Data Analytics'],2015,26.12,21.18,No,32.19,South America
+Healthcare,Large,"['Big Data Analytics', 'CRM', 'AI']",2017,23.08,12.7,No,16.31,Asia-Pacific
+Finance,Medium,"['Blockchain', 'CRM', 'IoT']",2021,17.68,6.34,Yes,29.44,Africa
+Technology,Large,"['CRM', 'Blockchain', 'Digital Twins', 'Big Data Analytics']",2019,13.66,24.28,No,13.66,Asia-Pacific
+Transportation,Medium,['Cloud Computing'],2017,14.28,9.48,No,32.28,South America
+Energy,Medium,"['AI', 'Cloud Computing', 'Big Data Analytics']",2020,8.72,8.24,No,22.33,North America
+Transportation,Small,['AI'],2018,23.95,13.09,Yes,32.61,North America
+Technology,Small,['IoT'],2023,26.81,6.56,Yes,7.44,North America
+Technology,Large,"['Big Data Analytics', 'CRM']",2019,7.61,18.19,No,34.33,South America
+Energy,Medium,"['CRM', 'Big Data Analytics', 'Blockchain', 'AI']",2017,28.19,15.66,Yes,31.94,South America
+Retail,Medium,"['AI', 'CRM']",2018,11.16,13.64,Yes,27.53,South America
+Finance,Small,"['IoT', 'Cloud Computing']",2023,29.96,5.59,Yes,18.75,South America
+Retail,Small,"['ERP', 'AI', 'Cloud Computing']",2021,23.57,14.67,No,28.76,South America
+Healthcare,Small,['AI'],2018,28.22,15.15,Yes,21.6,North America
+Healthcare,Small,['AI'],2020,6.56,24.65,No,26.4,Europe
+Transportation,Medium,['ERP'],2017,10.21,20.78,No,17.73,Europe
+Retail,Small,"['ERP', 'IoT', 'Blockchain']",2023,29.27,9.45,No,17.53,Asia-Pacific
+Retail,Small,"['Big Data Analytics', 'IoT', 'Digital Twins']",2019,8.85,24.76,Yes,16.53,Middle East
+Healthcare,Medium,"['Cloud Computing', 'Big Data Analytics', 'AI', 'Blockchain']",2015,17.88,18.79,Yes,13.21,Asia-Pacific
+Healthcare,Small,"['Cloud Computing', 'ERP']",2020,24.93,23.65,Yes,15.56,Africa
+Technology,Medium,"['ERP', 'Blockchain', 'AI']",2019,18.63,7.09,Yes,6.99,North America
+Retail,Large,"['AI', 'IoT', 'ERP', 'Digital Twins']",2021,20.21,7,Yes,16.39,Europe
+Retail,Medium,['AI'],2015,28.57,23.31,No,11.65,Asia-Pacific
+Transportation,Large,"['Cloud Computing', 'IoT', 'CRM']",2021,7.57,20.9,No,21.57,Middle East
+Healthcare,Small,['ERP'],2015,29.72,7.8,No,21.34,North America
+Education,Medium,"['CRM', 'Blockchain', 'Big Data Analytics']",2021,13.26,9.51,Yes,28.11,North America
+Transportation,Small,['IoT'],2020,15.51,12.43,Yes,8.28,Asia-Pacific
+Education,Medium,"['Big Data Analytics', 'AI']",2019,10.46,18.19,No,34.28,Europe
+Transportation,Medium,"['Big Data Analytics', 'ERP', 'CRM']",2015,12.23,7.25,No,23.3,Africa
+Energy,Medium,"['Big Data Analytics', 'CRM', 'Cloud Computing', 'AI']",2022,14.75,19.7,No,26.45,Asia-Pacific
+Transportation,Large,['ERP'],2018,17.8,21.34,No,29.97,South America
+Retail,Medium,['Cloud Computing'],2021,13.43,5.13,No,25.56,South America
+Transportation,Large,"['ERP', 'Big Data Analytics', 'IoT']",2019,21.13,19.49,No,7.23,Africa
+Manufacturing,Large,"['CRM', 'Big Data Analytics']",2015,6.81,24.56,No,26.1,Africa
+Technology,Small,"['ERP', 'AI', 'IoT']",2018,18.23,14.52,No,7.46,Middle East
+Energy,Large,"['Digital Twins', 'ERP', 'CRM']",2019,10.37,21.67,No,21.44,Africa
+Healthcare,Medium,"['Digital Twins', 'IoT']",2022,25.72,5.3,No,9.96,Africa
+Transportation,Medium,"['CRM', 'Blockchain']",2021,13.99,16.04,Yes,11.51,Asia-Pacific
+Technology,Small,['CRM'],2016,8.53,19.32,Yes,19.39,North America
+Education,Small,['ERP'],2019,12.64,5.54,Yes,34.52,Africa
+Education,Medium,"['CRM', 'AI', 'IoT']",2021,28.95,8.52,Yes,11.77,Africa
+Technology,Large,['Blockchain'],2022,23.5,22.5,Yes,18.25,Africa
+Technology,Small,"['IoT', 'Cloud Computing', 'ERP']",2020,5.48,17.06,No,5.67,North America
+Transportation,Small,"['IoT', 'Cloud Computing']",2017,7.04,6.5,No,27.6,Europe
+Manufacturing,Large,"['Digital Twins', 'Blockchain', 'Big Data Analytics']",2016,18.52,18.5,Yes,18.44,Middle East
+Education,Medium,"['IoT', 'AI', 'Big Data Analytics', 'Digital Twins']",2019,13.29,13.8,No,11.22,South America
+Education,Medium,"['Digital Twins', 'Cloud Computing']",2019,19.22,16.67,Yes,28.46,Africa
+Transportation,Medium,['Big Data Analytics'],2017,7.55,10.1,Yes,11.21,Africa
+Education,Medium,['Blockchain'],2023,10.73,24.02,No,10.78,North America
+Retail,Medium,"['AI', 'ERP', 'Cloud Computing', 'CRM']",2017,18.11,23.79,No,9.08,Middle East
+Transportation,Large,"['Big Data Analytics', 'ERP', 'Cloud Computing']",2020,8.81,11.49,Yes,21.36,Middle East
+Technology,Small,['AI'],2023,24,18.43,Yes,29.21,North America
+Retail,Large,"['Blockchain', 'Big Data Analytics']",2019,23.64,9.27,Yes,12.67,Middle East
+Finance,Large,"['Blockchain', 'CRM', 'IoT', 'ERP']",2021,18.39,5.95,Yes,12.11,North America
+Education,Large,"['Cloud Computing', 'AI', 'Digital Twins', 'CRM']",2017,17.23,12.74,Yes,9.94,North America
+Technology,Large,"['CRM', 'AI', 'IoT', 'Cloud Computing']",2023,29.9,24.59,No,32.86,North America
+Manufacturing,Medium,['ERP'],2016,18.44,7.48,Yes,11.26,Asia-Pacific
+Energy,Small,"['Blockchain', 'Digital Twins', 'Cloud Computing']",2017,11.2,7.58,Yes,32.46,South America
+Retail,Large,"['Blockchain', 'Big Data Analytics', 'Cloud Computing']",2017,12.13,5.64,Yes,29.28,Africa
+Finance,Medium,"['Big Data Analytics', 'Blockchain']",2018,16.85,10.42,Yes,5.8,South America
+Finance,Large,"['AI', 'Big Data Analytics', 'Cloud Computing']",2017,22.18,22.4,Yes,6.38,North America
+Finance,Small,"['Blockchain', 'IoT', 'Digital Twins', 'ERP']",2017,18.83,13.03,No,22.9,Africa
+Healthcare,Small,"['AI', 'ERP']",2016,28.64,18.78,No,13.68,Asia-Pacific
+Energy,Large,"['CRM', 'IoT', 'Digital Twins', 'Big Data Analytics']",2018,25.16,7.89,No,26.12,North America
+Manufacturing,Medium,"['AI', 'Cloud Computing']",2018,9.86,13.6,No,30.02,South America
+Retail,Medium,"['IoT', 'Big Data Analytics', 'Digital Twins', 'CRM']",2023,8.1,21.03,Yes,16.9,North America
+Energy,Large,"['ERP', 'Blockchain', 'Digital Twins']",2015,16.1,10.71,Yes,31.16,Europe
+Healthcare,Large,"['Big Data Analytics', 'CRM', 'Blockchain', 'ERP']",2023,28.16,18.08,No,33.11,Europe
+Energy,Small,['ERP'],2020,15.7,20.01,Yes,21.87,Middle East
+Manufacturing,Large,"['Cloud Computing', 'ERP', 'CRM']",2015,17.52,22.07,No,17.05,Asia-Pacific
+Healthcare,Small,"['Digital Twins', 'IoT', 'CRM', 'Cloud Computing']",2017,22.4,15.83,Yes,17.95,Africa
+Finance,Small,"['Digital Twins', 'IoT']",2019,24.46,15.57,No,15.49,Middle East
+Energy,Medium,['Big Data Analytics'],2020,23.63,21.81,Yes,34.17,Europe
+Retail,Medium,"['Digital Twins', 'IoT', 'Big Data Analytics']",2023,26.61,12.67,No,33.43,South America
+Education,Small,"['CRM', 'AI']",2020,12.57,12.54,No,20.87,Middle East
+Finance,Medium,"['Big Data Analytics', 'Cloud Computing', 'ERP', 'Blockchain']",2017,20.25,20.45,Yes,13.83,Middle East
+Manufacturing,Large,"['Big Data Analytics', 'ERP', 'AI', 'Digital Twins']",2020,21.31,13.64,Yes,28.07,Middle East
+Transportation,Medium,"['CRM', 'Cloud Computing', 'Blockchain']",2017,28.03,7.16,Yes,7.37,Middle East
+Education,Large,['Big Data Analytics'],2015,25.38,12.31,Yes,14.9,Middle East
+Retail,Medium,"['CRM', 'Cloud Computing', 'AI']",2018,25.49,14.72,No,11.22,South America
+Retail,Large,"['CRM', 'Cloud Computing', 'ERP']",2023,28.2,14.25,No,13.54,South America
+Finance,Large,"['AI', 'Digital Twins', 'CRM']",2020,28.6,8.31,No,9.34,Asia-Pacific
+Transportation,Large,"['Cloud Computing', 'CRM', 'ERP', 'AI']",2020,9.2,18.89,Yes,13.09,Europe
+Technology,Large,"['AI', 'CRM']",2020,25.17,9,No,10.66,Africa
+Transportation,Large,['Blockchain'],2018,11.14,20.24,Yes,23.67,North America
+Retail,Small,"['Cloud Computing', 'Big Data Analytics', 'AI', 'IoT']",2019,10.74,8.57,No,21.57,Europe
+Technology,Small,"['Big Data Analytics', 'Cloud Computing']",2015,23.9,9.14,No,22.92,North America
+Technology,Small,['AI'],2023,20.89,16.35,No,31.24,Africa
+Manufacturing,Small,['Blockchain'],2021,6.35,6.04,No,22.25,Asia-Pacific
+Transportation,Medium,"['ERP', 'Big Data Analytics']",2016,8.72,8.56,No,6.07,North America
+Healthcare,Medium,"['AI', 'ERP', 'Big Data Analytics', 'Digital Twins']",2019,22.55,24.43,No,20.46,Asia-Pacific
+Finance,Medium,['Digital Twins'],2020,15.68,18.67,No,32.61,Middle East
+Transportation,Large,['ERP'],2015,12.83,14.29,No,14.85,Africa
+Education,Medium,"['Digital Twins', 'ERP']",2020,28.73,9.77,No,16.91,South America
+Retail,Medium,"['IoT', 'ERP']",2022,29.27,22.55,No,14.29,Europe
+Technology,Small,"['Cloud Computing', 'IoT', 'Digital Twins', 'Big Data Analytics']",2021,25.65,7.43,No,14.03,North America
+Transportation,Small,"['AI', 'Big Data Analytics']",2022,7.68,22.02,Yes,34.69,Asia-Pacific
+Retail,Small,"['Digital Twins', 'CRM', 'ERP']",2023,27.75,23.77,Yes,15.75,Africa
+Finance,Small,['Cloud Computing'],2023,7.09,6.16,Yes,23.94,Middle East
+Healthcare,Large,"['Digital Twins', 'ERP', 'IoT']",2017,25.36,7.93,Yes,17.76,Europe
+Energy,Large,"['Digital Twins', 'ERP', 'IoT', 'Cloud Computing']",2017,7.4,10.38,No,28.16,Africa
+Retail,Small,"['Cloud Computing', 'IoT']",2019,15.15,21.83,No,21.01,South America
+Technology,Small,"['IoT', 'ERP']",2017,29.07,13.87,Yes,13.43,Asia-Pacific
+Energy,Small,"['CRM', 'IoT']",2023,21.85,18.44,Yes,10.7,South America
+Finance,Small,"['Big Data Analytics', 'Digital Twins', 'CRM', 'IoT']",2015,20.86,17.72,Yes,8.44,Africa
+Education,Medium,"['Digital Twins', 'Blockchain', 'ERP']",2020,20.98,21.91,No,7.22,Africa
+Manufacturing,Medium,"['IoT', 'Cloud Computing']",2020,21.57,17.37,No,25.84,Asia-Pacific
+Finance,Medium,"['Big Data Analytics', 'Cloud Computing']",2022,28.77,15.24,No,29.71,Asia-Pacific
+Healthcare,Large,"['Cloud Computing', 'IoT']",2015,8.5,6.56,No,13.44,Asia-Pacific
+Technology,Medium,['IoT'],2023,29.1,10.19,No,23.35,North America
+Healthcare,Small,['IoT'],2015,8.34,12.01,No,31.22,Asia-Pacific
+Technology,Small,"['Blockchain', 'Digital Twins', 'AI', 'IoT']",2020,7.18,22.34,No,34.85,North America
+Healthcare,Small,"['Big Data Analytics', 'AI']",2023,9.82,10.09,Yes,16.13,Africa
+Energy,Large,['Cloud Computing'],2018,20.3,20.08,Yes,24.02,Europe
+Technology,Small,"['AI', 'Big Data Analytics', 'Cloud Computing']",2017,28.41,20.63,No,27.21,North America
+Healthcare,Small,['CRM'],2020,6.89,6.3,No,21.94,South America
+Transportation,Large,['CRM'],2016,8.85,11.12,No,12.59,North America
+Finance,Medium,"['AI', 'CRM']",2016,11.87,15.82,No,32.62,Asia-Pacific
+Education,Small,"['ERP', 'Digital Twins']",2017,23.64,6.04,No,16.09,South America
+Education,Large,['IoT'],2016,27.19,11.17,No,20.67,North America
+Manufacturing,Medium,"['Cloud Computing', 'ERP', 'Blockchain', 'Digital Twins']",2023,10.7,11.6,No,30.74,Africa
+Healthcare,Medium,"['AI', 'CRM', 'Big Data Analytics', 'Blockchain']",2015,29.81,17.8,Yes,11.98,Africa
+Finance,Medium,"['Big Data Analytics', 'Blockchain']",2023,13.97,10.29,No,18.96,Europe
+Technology,Large,"['Cloud Computing', 'IoT', 'ERP']",2022,28.85,17.57,No,33.79,Africa
+Education,Small,"['IoT', 'Big Data Analytics', 'AI']",2020,17.73,11.65,No,5.93,North America
+Transportation,Small,"['Blockchain', 'AI', 'CRM', 'Cloud Computing']",2017,22.69,17.88,No,5.36,Europe
+Technology,Medium,"['IoT', 'CRM', 'Big Data Analytics', 'AI']",2021,29.45,22.42,Yes,15.33,Asia-Pacific
+Manufacturing,Small,"['Cloud Computing', 'AI', 'Digital Twins', 'ERP']",2018,21.19,24.09,No,20.17,Africa
+Technology,Small,['Digital Twins'],2022,19.96,23.57,Yes,33.61,South America
+Manufacturing,Small,['Blockchain'],2016,15.12,14.78,No,21.31,Middle East
+Finance,Small,"['CRM', 'ERP', 'Blockchain']",2016,22.06,18.58,No,7.18,Africa
+Retail,Large,"['Blockchain', 'Cloud Computing', 'CRM']",2020,8.13,19.46,Yes,19.86,South America
+Transportation,Large,"['Big Data Analytics', 'ERP', 'AI']",2016,8.79,13.59,No,10.71,North America
+Retail,Large,"['Digital Twins', 'CRM']",2019,26.79,15.46,Yes,13.7,South America
+Manufacturing,Small,"['Big Data Analytics', 'ERP', 'IoT', 'Blockchain']",2020,11.31,24.96,Yes,16.68,South America
