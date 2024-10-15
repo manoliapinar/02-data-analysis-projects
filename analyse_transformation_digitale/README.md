@@ -5,10 +5,10 @@ Ce projet vise à analyser l'impact de la transformation digitale sur les perfor
 
 🔧 Technologies et Outils Utilisés
 
-Langages : Python
-Bibliothèques Python : Pandas, NumPy, Matplotlib, Seaborn, Plotly
-Outils de Visualisation : Qlik
-Environnements : Google Colab
+*Langages : Python
+*Bibliothèques Python : Pandas, NumPy, Matplotlib, Seaborn, Plotly
+*Outils de Visualisation : Qlik
+*Environnements : Google Colab
 
 📁 Structure du Répertoire
 
